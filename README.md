@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Subham Kumar.
+- 👀 I’m interested in Programming, Mechatronics & Music (Apart from a ton of other stuffs).
+- 🌱 I’m currently learning Google Cloud & Machine Learning.
+- 💞️ I’m looking to collaborate on Cool Terminal Hacks or Data Engineering Problems.
+- 📫 How to reach me ? If you know me from work, say `hi👋🏼` on teams else `mailsubhkr@gmail.com`
